@@ -4,7 +4,7 @@ This is the README for the VS Code `lead-kindly-newsletter-search` extension.
 
 ## Features
 
-This extension allows you to search the most recent 20 posts from the Lead Kindly Newsletter using the VS Code command palette.
+This extension allows you to search the most recent 20 posts from the Lead Kindly Newsletter using the VS Code command palette and open the links in the web browser.
 
 To use the extension:
 
